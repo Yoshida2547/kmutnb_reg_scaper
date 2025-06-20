@@ -14,6 +14,7 @@ from selenium.webdriver.remote.webelement import WebElement
 import time
 
 import json
+import math
 
 # XPATH
 
@@ -33,10 +34,10 @@ TOTAL_RESULT_XPATH  = '/html/body/app-root/vertical-layout/div/content/div/app-c
 DATATABLE_XPATH     = '/html/body/app-root/vertical-layout/div/content/div/app-classinfo/div[2]/ngx-datatable/div/datatable-body/datatable-selection/datatable-scroller'
 
 # Nevigate
-PREV_PAGE_XPATH = '/html/body/app-root/vertical-layout/div/content/div/app-classinfo/div[2]/ngx-datatable/div/datatable-footer/div/datatable-pager/ul/li[2]/a'
-NEXT_PAGE_XPATH = '/html/body/app-root/vertical-layout/div/content/div/app-classinfo/div[2]/ngx-datatable/div/datatable-footer/div/datatable-pager/ul/li[8]/a'
+PAGE_NEVIGATE_XPATH = '/html/body/app-root/vertical-layout/div/content/div/app-classinfo/div[2]/ngx-datatable/div/datatable-footer/div/datatable-pager/ul'
 
-LANG = 'th'
+LANG_MENU_XPATH   = '//*[@id="dropdown-flag"]'
+LANG_DROPDOWN_XPATH = '/html/body/app-root/vertical-layout/app-navbar/div/ul[2]/li[1]/div'
 
 DAY_MAP = {
     'จ.': 'จันทร์', 
@@ -45,12 +46,22 @@ DAY_MAP = {
     'พฤ.': 'พฤหัส', 
     'ศ.': 'ศุกร์', 
     'ส.': 'เสาร์', 
-    'อา.': 'อาทิตย์'
+    'อา.': 'อาทิตย์',
+    'MON' : 'MON',
+    'TUE' : 'TUE',
+    'WED' : 'WED',
+    'THU' : 'THU',
+    'FRI' : 'FRI',
+    'SAT' : 'SAT',
+    'SUN' : 'SUN',
 }
+
+LANG = 'th'
 
 def main():
     # instantiate options for Chrome
     options = webdriver.ChromeOptions()
+    options.add_argument("--headless=new")
 
     # instantiate Chrome WebDriver with options
     driver = webdriver.Chrome(options=options)
@@ -61,7 +72,9 @@ def main():
     # open the specified URL in the browser
     driver.get(url)
 
-    result = reg_scrape(driver)
+    reg_change_lang(driver, lang=2)
+
+    result = reg_scrape(driver, course_id='080303701')
 
     with open("result.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=4)
@@ -89,11 +102,7 @@ def reg_scrape(driver: WebDriver, faculty_id=None, department_id=None, course_id
 
     print("Loading")
 
-    WebDriverWait(driver, 10).until(
-        expected_conditions.none_of(
-            expected_conditions.presence_of_element_located((By.XPATH, LOADING_XPATH))
-        )
-    )
+    reg_wait_loading(driver)
 
     print("Loaded")
 
@@ -116,19 +125,33 @@ def reg_scrape(driver: WebDriver, faculty_id=None, department_id=None, course_id
             data = reg_extract_data_from_row(datatable_row)
 
             datas.append(data)
+
+            print(" ")
         
         if total_result > 10:
             reg_next_page(driver)
-
-        WebDriverWait(driver, 10).until(
-                expected_conditions.none_of(
-                    expected_conditions.presence_of_element_located((By.XPATH, LOADING_XPATH))
-                )
-            )
+        
+        reg_wait_loading(driver)
 
     return datas
 
+def reg_wait_loading(driver):
+    WebDriverWait(driver, 10).until(
+        expected_conditions.none_of(
+            expected_conditions.presence_of_element_located((By.XPATH, LOADING_XPATH))
+        )
+    )
 
+
+def reg_change_lang(driver: WebDriver, lang=1):
+    lang_button = driver.find_element(By.XPATH, LANG_MENU_XPATH)
+    lang_button.click()
+
+    drowdrop = driver.find_element(By.XPATH, f'{LANG_DROPDOWN_XPATH}/a[{lang}]')
+    drowdrop.click()
+
+    reg_wait_loading(driver)
+    
 def reg_select_year(driver: WebDriver, year):
     year_field = driver.find_element(By.XPATH, YEAR_XPATH)
 
@@ -232,14 +255,14 @@ def reg_extract_data_from_row(row: WebElement):
     return data
 
 def reg_prev_page(driver: WebDriver):
-    prev_button = driver.find_element(By.XPATH, PREV_PAGE_XPATH)
+    prev_button = driver.find_element(By.XPATH, '//a[@aria-label="go to previous page"]')
 
     if prev_button == None: return
 
     prev_button.click()
 
 def reg_next_page(driver: WebDriver):
-    next_button = driver.find_element(By.XPATH, NEXT_PAGE_XPATH)
+    next_button = driver.find_element(By.XPATH, '//a[@aria-label="go to next page"]')
 
     if next_button == None: return
 

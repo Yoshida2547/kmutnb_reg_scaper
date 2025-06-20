@@ -1,0 +1,232 @@
+[
+    {
+        "course_id": "080303701",
+        "course_name": "DESIGN THINKING",
+        "instuctors": [
+            "Ajarn Dr.RATI MANEENGAM"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 100,
+        "enrolled_seats": 92,
+        "class_schedule": [
+            {
+                "room": "88-703-4",
+                "day": "THU",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "080303701",
+        "course_name": "DESIGN THINKING",
+        "instuctors": [
+            "Asst.prof.SRISUWAN NOIPITAG"
+        ],
+        "credits": 3,
+        "section": 2,
+        "total_seats": 85,
+        "enrolled_seats": 67,
+        "class_schedule": [
+            {
+                "room": "89-505",
+                "day": "WED",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "080303701",
+        "course_name": "DESIGN THINKING",
+        "instuctors": [
+            "Asst.Prof.Dr.BENJAWAN BOONYAPRAPHAN"
+        ],
+        "credits": 3,
+        "section": 3,
+        "total_seats": 95,
+        "enrolled_seats": 95,
+        "class_schedule": [
+            {
+                "room": "88-801-2",
+                "day": "MON",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "080303701",
+        "course_name": "DESIGN THINKING",
+        "instuctors": [
+            "Asst.Prof.Dr.BENJAWAN BOONYAPRAPHAN"
+        ],
+        "credits": 3,
+        "section": 4,
+        "total_seats": 70,
+        "enrolled_seats": 68,
+        "class_schedule": [
+            {
+                "room": "31-21107",
+                "day": "WED",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "080303701",
+        "course_name": "DESIGN THINKING",
+        "instuctors": [
+            "Ajarn Dr.RATI MANEENGAM"
+        ],
+        "credits": 3,
+        "section": 5,
+        "total_seats": 76,
+        "enrolled_seats": 62,
+        "class_schedule": [
+            {
+                "room": "52-616/617",
+                "day": "WED",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "080303701",
+        "course_name": "DESIGN THINKING",
+        "instuctors": [
+            "Asst.Prof.Dr.BENJAWAN BOONYAPRAPHAN"
+        ],
+        "credits": 3,
+        "section": 6,
+        "total_seats": 80,
+        "enrolled_seats": 73,
+        "class_schedule": [
+            {
+                "room": "96-515",
+                "day": "WED",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "080303701",
+        "course_name": "DESIGN THINKING",
+        "instuctors": [
+            "Asst.Prof.Dr.BENJAWAN BOONYAPRAPHAN"
+        ],
+        "credits": 3,
+        "section": 10,
+        "total_seats": 106,
+        "enrolled_seats": 106,
+        "class_schedule": [
+            {
+                "room": "31-21107",
+                "day": "MON",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "080303701",
+        "course_name": "DESIGN THINKING",
+        "instuctors": [
+            "Assoc.Prof.Dr.PRAJAK PRATITAS"
+        ],
+        "credits": 3,
+        "section": 11,
+        "total_seats": 105,
+        "enrolled_seats": 71,
+        "class_schedule": [
+            {
+                "room": "72-405",
+                "day": "MON",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "080303701",
+        "course_name": "DESIGN THINKING",
+        "instuctors": [
+            "Ajarn Dr.NONTIRAT PATHANAPAKDEE"
+        ],
+        "credits": 3,
+        "section": 12,
+        "total_seats": 31,
+        "enrolled_seats": 25,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "WED",
+                "from": "17:00",
+                "until": "20:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "080303701",
+        "course_name": "DESIGN THINKING",
+        "instuctors": [
+            "Ajarn Dr.RATI MANEENGAM"
+        ],
+        "credits": 3,
+        "section": 13,
+        "total_seats": 135,
+        "enrolled_seats": 135,
+        "class_schedule": [
+            {
+                "room": "78-216",
+                "day": "FRI",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    }
+]
