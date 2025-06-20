@@ -1,0 +1,13 @@
+prefix=/home/notebook/python_project/web_scraping/env
+exec_prefix=/home/notebook/python_project/web_scraping/env
+libdir=/home/notebook/python_project/web_scraping/env/lib
+sharedlibdir=/home/notebook/python_project/web_scraping/env/lib
+includedir=/home/notebook/python_project/web_scraping/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
