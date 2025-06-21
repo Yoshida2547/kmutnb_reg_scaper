@@ -1,18 +1,808 @@
 [
     {
-        "course_id": "080303701",
-        "course_name": "DESIGN THINKING",
+        "course_id": "040113003",
+        "course_name": "CHEMISTRY FOR SCIENTISTS",
         "instuctors": [
-            "Ajarn Dr.RATI MANEENGAM"
+            "อาจารย์ ดร.ปิยรัตน์ ตรีกิตติวงศ์"
+        ],
+        "credits": 3,
+        "section": 5,
+        "total_seats": 170,
+        "enrolled_seats": 170,
+        "class_schedule": [
+            {
+                "room": "78-1201",
+                "day": "พุธ",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "14/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040113003",
+        "course_name": "CHEMISTRY FOR SCIENTISTS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.สุกัญญา เทพวาที",
+            "อาจารย์ ดร.คมเทพ ศิลป์จารุ"
+        ],
+        "credits": 3,
+        "section": 4,
+        "total_seats": 110,
+        "enrolled_seats": 49,
+        "class_schedule": [
+            {
+                "room": "72-405",
+                "day": "พุธ",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "14/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040113004",
+        "course_name": "CHEMISTRY LAB FOR SCIENTISTS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ณคเดช ยังวิลัย",
+            "ผู้ช่วยศาสตราจารย์ ดร.ชนัต บำรุงวงศ์ดี"
+        ],
+        "credits": 1,
+        "section": 11,
+        "total_seats": 60,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "71-501",
+                "day": "อังคาร",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "21/10/68",
+                "from": "13:00",
+                "until": "15:00"
+            }
+        }
+    },
+    {
+        "course_id": "040113004",
+        "course_name": "CHEMISTRY LAB FOR SCIENTISTS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.สริญญา ชวพันธ์",
+            "อาจารย์ ดร.นิศาลักษณ์ ตรงศิริวัฒน์"
+        ],
+        "credits": 1,
+        "section": 9,
+        "total_seats": 60,
+        "enrolled_seats": 60,
+        "class_schedule": [
+            {
+                "room": "71-301",
+                "day": "อังคาร",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "21/10/68",
+                "from": "13:00",
+                "until": "15:00"
+            }
+        }
+    },
+    {
+        "course_id": "040113004",
+        "course_name": "CHEMISTRY LAB FOR SCIENTISTS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.สไบทิพย์ ตุงคะมณี",
+            "อาจารย์ ดร.คมเทพ ศิลป์จารุ"
+        ],
+        "credits": 1,
+        "section": 10,
+        "total_seats": 60,
+        "enrolled_seats": 60,
+        "class_schedule": [
+            {
+                "room": "71-401",
+                "day": "อังคาร",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "21/10/68",
+                "from": "13:00",
+                "until": "15:00"
+            }
+        }
+    },
+    {
+        "course_id": "040203101",
+        "course_name": "MATHEMATICS I",
+        "instuctors": [
+            "อาจารย์สันติพงษ์ ประสาททอง"
+        ],
+        "credits": 3,
+        "section": 17,
+        "total_seats": 60,
+        "enrolled_seats": 60,
+        "class_schedule": [
+            {
+                "room": "72-402",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "18/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "20/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040203101",
+        "course_name": "MATHEMATICS I",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ชนากานต์ เกียรติอร่ามกุล"
+        ],
+        "credits": 3,
+        "section": 18,
+        "total_seats": 60,
+        "enrolled_seats": 60,
+        "class_schedule": [
+            {
+                "room": "72-404",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "18/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "20/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040203101",
+        "course_name": "MATHEMATICS I",
+        "instuctors": [
+            "อาจารย์ ดร.นันทพล ธัมอารีย์รัตน์"
+        ],
+        "credits": 3,
+        "section": 19,
+        "total_seats": 60,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "75-1205",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "18/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "20/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040203111",
+        "course_name": "ENGINEERING MATHEMATICS I",
+        "instuctors": [
+            "อาจารย์ ดร.ชัยยศ กำธรเจริญ"
+        ],
+        "credits": 3,
+        "section": 19,
+        "total_seats": 80,
+        "enrolled_seats": 57,
+        "class_schedule": [
+            {
+                "room": "75-1205",
+                "day": "พุธ",
+                "from": "08:30",
+                "until": "11:30"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "18/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "20/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040203111",
+        "course_name": "ENGINEERING MATHEMATICS I",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.ชานนท์ พรมสกล"
+        ],
+        "credits": 3,
+        "section": 20,
+        "total_seats": 80,
+        "enrolled_seats": 65,
+        "class_schedule": [
+            {
+                "room": "72-403",
+                "day": "พุธ",
+                "from": "08:30",
+                "until": "11:30"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "18/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "20/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040203210",
+        "course_name": "LINEAR ALGEB & DIF EQUA FOR ENG",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ธนวัฒน์ วิเชียรไพศาล"
+        ],
+        "credits": 3,
+        "section": 2,
+        "total_seats": 45,
+        "enrolled_seats": 27,
+        "class_schedule": [
+            {
+                "room": "78-301",
+                "day": "จันทร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "18/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "20/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040303005",
+        "course_name": "PHYSICS I",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.อมรินทร์ รัตนะวิศ"
+        ],
+        "credits": 3,
+        "section": 4,
+        "total_seats": 90,
+        "enrolled_seats": 90,
+        "class_schedule": [
+            {
+                "room": "72-401",
+                "day": "พฤหัส",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "17/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040303005",
+        "course_name": "PHYSICS I",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.อภิชาติ ศิริวิทย์ปรีชา"
+        ],
+        "credits": 3,
+        "section": 5,
+        "total_seats": 90,
+        "enrolled_seats": 33,
+        "class_schedule": [
+            {
+                "room": "72-405",
+                "day": "ศุกร์",
+                "from": "08:30",
+                "until": "11:30"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "17/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040303005",
+        "course_name": "PHYSICS I",
+        "instuctors": [
+            "อาจารย์ ดร.นิธิพัฒน์ พลชัย"
+        ],
+        "credits": 3,
+        "section": 6,
+        "total_seats": 78,
+        "enrolled_seats": 78,
+        "class_schedule": [
+            {
+                "room": "72-405",
+                "day": "พฤหัส",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "17/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040303005",
+        "course_name": "PHYSICS I",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.อภิชาติ ศิริวิทย์ปรีชา"
+        ],
+        "credits": 3,
+        "section": 7,
+        "total_seats": 100,
+        "enrolled_seats": 81,
+        "class_schedule": [
+            {
+                "room": "72-401",
+                "day": "จันทร์",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "17/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040303006",
+        "course_name": "PHYSICS LABORATORY I",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.วันทนา เกิดนิยม",
+            "ผู้ช่วยศาสตราจารย์ ดร.จินตวัฒน์ ตันอมาตยรัตน์",
+            "อาจารย์ ดร.จาริณี เกียงเอีย"
+        ],
+        "credits": 1,
+        "section": 4,
+        "total_seats": 100,
+        "enrolled_seats": 100,
+        "class_schedule": [
+            {
+                "room": "31-10800",
+                "day": "พุธ",
+                "from": "10:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "17/10/68",
+                "from": "13:00",
+                "until": "15:00"
+            }
+        }
+    },
+    {
+        "course_id": "040303006",
+        "course_name": "PHYSICS LABORATORY I",
+        "instuctors": [
+            "อาจารย์ ดร.รสจรินทร์ รัตนสุนทร",
+            "อาจารย์อัครเดช ใจเงิน"
+        ],
+        "credits": 1,
+        "section": 5,
+        "total_seats": 61,
+        "enrolled_seats": 60,
+        "class_schedule": [
+            {
+                "room": "31-10800",
+                "day": "พุธ",
+                "from": "17:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "17/10/68",
+                "from": "13:00",
+                "until": "15:00"
+            }
+        }
+    },
+    {
+        "course_id": "040303006",
+        "course_name": "PHYSICS LABORATORY I",
+        "instuctors": [
+            "อาจารย์ ดร.จาริณี เกียงเอีย",
+            "รองศาสตราจารย์ ดร.เกษรารัตน์ อักษรรัตน์"
+        ],
+        "credits": 1,
+        "section": 6,
+        "total_seats": 45,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "31-10800",
+                "day": "พุธ",
+                "from": "17:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "17/10/68",
+                "from": "13:00",
+                "until": "15:00"
+            }
+        }
+    },
+    {
+        "course_id": "040303006",
+        "course_name": "PHYSICS LABORATORY I",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.เกษรารัตน์ อักษรรัตน์",
+            "อาจารย์ ดร.จาริณี เกียงเอีย"
+        ],
+        "credits": 1,
+        "section": 7,
+        "total_seats": 100,
+        "enrolled_seats": 81,
+        "class_schedule": [
+            {
+                "room": "31-10800",
+                "day": "พุธ",
+                "from": "15:00",
+                "until": "17:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "17/10/68",
+                "from": "13:00",
+                "until": "15:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313011",
+        "course_name": "PHYSICS FOR TECHNOLOGISTS",
+        "instuctors": [
+            "อาจารย์ ดร.จาริณี เกียงเอีย"
+        ],
+        "credits": 3,
+        "section": 3,
+        "total_seats": 110,
+        "enrolled_seats": 100,
+        "class_schedule": [
+            {
+                "room": "72-403",
+                "day": "อังคาร",
+                "from": "08:30",
+                "until": "11:30"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "17/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313016",
+        "course_name": "PHYSICS IN DAILY LIFE",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.เกษรารัตน์ อักษรรัตน์"
+        ],
+        "credits": 3,
+        "section": 3,
+        "total_seats": 60,
+        "enrolled_seats": 55,
+        "class_schedule": [
+            {
+                "room": "78-320",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "24/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313016",
+        "course_name": "PHYSICS IN DAILY LIFE",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.เกษรารัตน์ อักษรรัตน์"
+        ],
+        "credits": 3,
+        "section": 4,
+        "total_seats": 45,
+        "enrolled_seats": 45,
+        "class_schedule": [
+            {
+                "room": "75-303",
+                "day": "พฤหัส",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "24/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313017",
+        "course_name": "EXERCISE SKILL & SPORT",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.วีระศักดิ์ อัศววงศ์อารยะ"
+        ],
+        "credits": 3,
+        "section": 2,
+        "total_seats": 120,
+        "enrolled_seats": 118,
+        "class_schedule": [
+            {
+                "room": "78-216",
+                "day": "พฤหัส",
+                "from": "08:30",
+                "until": "11:30"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "24/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313018",
+        "course_name": "HUMAN BODY & HEALTH",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.ภัทรวีรินทร์ วรรัฐสุนทร"
+        ],
+        "credits": 3,
+        "section": 2,
+        "total_seats": 120,
+        "enrolled_seats": 120,
+        "class_schedule": [
+            {
+                "room": "78-216",
+                "day": "อังคาร",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "24/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313103",
+        "course_name": "ELECTRONICS I",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.สุกัญญา ฉัตรภูติ",
+            "อาจารย์ ดร.ฐิตพันธุ์ จองสถาพร"
         ],
         "credits": 3,
         "section": 1,
-        "total_seats": 100,
-        "enrolled_seats": 92,
+        "total_seats": 124,
+        "enrolled_seats": 120,
         "class_schedule": [
             {
-                "room": "88-703-4",
-                "day": "THU",
+                "room": "78-1201",
+                "day": "อังคาร",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "19/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "15/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313103",
+        "course_name": "ELECTRONICS I",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.สุกัญญา ฉัตรภูติ",
+            "อาจารย์ ดร.ฐิตพันธุ์ จองสถาพร"
+        ],
+        "credits": 3,
+        "section": 2,
+        "total_seats": 120,
+        "enrolled_seats": 110,
+        "class_schedule": [
+            {
+                "room": "78-1201",
+                "day": "อังคาร",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "19/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "15/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313104",
+        "course_name": "ELECTRONICS LAB I",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.เสฎฐวุฒิ ดวงจันทร์",
+            "อาจารย์ ดร.สรมย์พร เจริญพิทย์"
+        ],
+        "credits": 1,
+        "section": 1,
+        "total_seats": 48,
+        "enrolled_seats": 48,
+        "class_schedule": [
+            {
+                "room": "78-417",
+                "day": "จันทร์",
                 "from": "13:00",
                 "until": "16:00"
             }
@@ -23,136 +813,2096 @@
         }
     },
     {
-        "course_id": "080303701",
-        "course_name": "DESIGN THINKING",
+        "course_id": "040313104",
+        "course_name": "ELECTRONICS LAB I",
         "instuctors": [
-            "Asst.prof.SRISUWAN NOIPITAG"
+            "ผู้ช่วยศาสตราจารย์ ดร.เสฎฐวุฒิ ดวงจันทร์",
+            "อาจารย์ ดร.นนท์ปวิธ ภูมิมณี"
+        ],
+        "credits": 1,
+        "section": 2,
+        "total_seats": 48,
+        "enrolled_seats": 48,
+        "class_schedule": [
+            {
+                "room": "78-417",
+                "day": "พุธ",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313104",
+        "course_name": "ELECTRONICS LAB I",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.สุกัญญา ฉัตรภูติ",
+            "อาจารย์ ดร.ฐิตพันธุ์ จองสถาพร"
+        ],
+        "credits": 1,
+        "section": 3,
+        "total_seats": 48,
+        "enrolled_seats": 48,
+        "class_schedule": [
+            {
+                "room": "78-417",
+                "day": "พฤหัส",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313104",
+        "course_name": "ELECTRONICS LAB I",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.สุกัญญา ฉัตรภูติ",
+            "อาจารย์ ดร.ฐิตพันธุ์ จองสถาพร"
+        ],
+        "credits": 1,
+        "section": 4,
+        "total_seats": 48,
+        "enrolled_seats": 44,
+        "class_schedule": [
+            {
+                "room": "78-417",
+                "day": "พฤหัส",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313104",
+        "course_name": "ELECTRONICS LAB I",
+        "instuctors": [
+            "อาจารย์ ดร.สรมย์พร เจริญพิทย์",
+            "อาจารย์ประชารัฐ สัตถาผล"
+        ],
+        "credits": 1,
+        "section": 5,
+        "total_seats": 48,
+        "enrolled_seats": 39,
+        "class_schedule": [
+            {
+                "room": "78-417",
+                "day": "พฤหัส",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313109",
+        "course_name": "MICROCONTROL SYS DESIGN",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์พยุง เดชอยู่"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 110,
+        "enrolled_seats": 110,
+        "class_schedule": [
+            {
+                "room": "72-401",
+                "day": "อังคาร",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "16/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313109",
+        "course_name": "MICROCONTROL SYS DESIGN",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์พยุง เดชอยู่"
         ],
         "credits": 3,
         "section": 2,
+        "total_seats": 110,
+        "enrolled_seats": 75,
+        "class_schedule": [
+            {
+                "room": "78-216",
+                "day": "อังคาร",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "16/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313110",
+        "course_name": "MICROCONTROL SYS DESIGN LAB",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์พยุง เดชอยู่"
+        ],
+        "credits": 1,
+        "section": 1,
+        "total_seats": 40,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "75-404",
+                "day": "จันทร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313110",
+        "course_name": "MICROCONTROL SYS DESIGN LAB",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์พยุง เดชอยู่"
+        ],
+        "credits": 1,
+        "section": 2,
+        "total_seats": 40,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "75-404",
+                "day": "อังคาร",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313110",
+        "course_name": "MICROCONTROL SYS DESIGN LAB",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์พยุง เดชอยู่"
+        ],
+        "credits": 1,
+        "section": 3,
+        "total_seats": 40,
+        "enrolled_seats": 8,
+        "class_schedule": [
+            {
+                "room": "75-404",
+                "day": "พุธ",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313110",
+        "course_name": "MICROCONTROL SYS DESIGN LAB",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์พยุง เดชอยู่"
+        ],
+        "credits": 1,
+        "section": 4,
+        "total_seats": 40,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "75-404",
+                "day": "พุธ",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313110",
+        "course_name": "MICROCONTROL SYS DESIGN LAB",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์พยุง เดชอยู่",
+            "อาจารย์ชาญชัย พรหมลิขิต"
+        ],
+        "credits": 1,
+        "section": 5,
+        "total_seats": 40,
+        "enrolled_seats": 23,
+        "class_schedule": [
+            {
+                "room": "75-404",
+                "day": "พุธ",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313111",
+        "course_name": "SEMINAR",
+        "instuctors": [],
+        "credits": 1,
+        "section": 1,
+        "total_seats": 72,
+        "enrolled_seats": 45,
+        "class_schedule": [
+            {
+                "room": "78-216",
+                "day": "เสาร์",
+                "from": "17:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313111",
+        "course_name": "SEMINAR",
+        "instuctors": [],
+        "credits": 1,
+        "section": 2,
+        "total_seats": 72,
+        "enrolled_seats": 7,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "เสาร์",
+                "from": "17:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313116",
+        "course_name": "ELEC & ELECTRN DRAWING",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.ชาญวิทย์ ตั้งสิริวรกุล"
+        ],
+        "credits": 3,
+        "section": 2,
+        "total_seats": 53,
+        "enrolled_seats": 53,
+        "class_schedule": [
+            {
+                "room": "43-101",
+                "day": "พฤหัส",
+                "from": "13:00",
+                "until": "17:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313116",
+        "course_name": "ELEC & ELECTRN DRAWING",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.ชาญวิทย์ ตั้งสิริวรกุล"
+        ],
+        "credits": 3,
+        "section": 3,
+        "total_seats": 53,
+        "enrolled_seats": 53,
+        "class_schedule": [
+            {
+                "room": "43-101",
+                "day": "ศุกร์",
+                "from": "08:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313116",
+        "course_name": "ELEC & ELECTRN DRAWING",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.พรศักดิ์ ศรีสังสิทธิสันติ"
+        ],
+        "credits": 3,
+        "section": 4,
+        "total_seats": 53,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "43-101",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "17:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313116",
+        "course_name": "ELEC & ELECTRN DRAWING",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.วัฒนา แก้วมณี"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 53,
+        "enrolled_seats": 53,
+        "class_schedule": [
+            {
+                "room": "43-101",
+                "day": "พุธ",
+                "from": "08:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313119",
+        "course_name": "MECHANICAL AND ELECTRICAL DRAWIN",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ประสงค์ ธูสรานนท์",
+            "รองศาสตราจารย์ ดร.พิสิษฐ์ ลิ่วธนกุล"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 48,
+        "enrolled_seats": 48,
+        "class_schedule": [
+            {
+                "room": "78-423",
+                "day": "จันทร์",
+                "from": "08:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313119",
+        "course_name": "MECHANICAL AND ELECTRICAL DRAWIN",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ประสงค์ ธูสรานนท์",
+            "รองศาสตราจารย์ ดร.พิสิษฐ์ ลิ่วธนกุล"
+        ],
+        "credits": 3,
+        "section": 2,
+        "total_seats": 48,
+        "enrolled_seats": 48,
+        "class_schedule": [
+            {
+                "room": "78-423",
+                "day": "จันทร์",
+                "from": "13:00",
+                "until": "17:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313119",
+        "course_name": "MECHANICAL AND ELECTRICAL DRAWIN",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ประสงค์ ธูสรานนท์",
+            "ผู้ช่วยศาสตราจารย์ ดร.นภดล วิวัชรโกเศศ"
+        ],
+        "credits": 3,
+        "section": 3,
+        "total_seats": 48,
+        "enrolled_seats": 27,
+        "class_schedule": [
+            {
+                "room": "78-423",
+                "day": "อังคาร",
+                "from": "08:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313200",
+        "course_name": "MECHANICS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.จิราพร เหลืองวิริยะ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 62,
+        "enrolled_seats": 48,
+        "class_schedule": [
+            {
+                "room": "75-1205",
+                "day": "พฤหัส",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "23/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "14/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040313202",
+        "course_name": "VIBRATION & WAVE",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ปณกมล ทองหล่อ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 45,
+        "enrolled_seats": 39,
+        "class_schedule": [
+            {
+                "room": "75-303",
+                "day": "พุธ",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "22/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313203",
+        "course_name": "ELECTROMAGNETIC THEORY",
+        "instuctors": [
+            "อาจารย์กนิษฐา ฉันทนาชัย"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 85,
+        "enrolled_seats": 62,
+        "class_schedule": [
+            {
+                "room": "72-402",
+                "day": "ศุกร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "24/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313205",
+        "course_name": "INTRO TO COMPUTATION PHYSICS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ประจวบ ยุงสันเทียะ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 24,
+        "enrolled_seats": 22,
+        "class_schedule": [
+            {
+                "room": "78-405",
+                "day": "อังคาร",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313205",
+        "course_name": "INTRO TO COMPUTATION PHYSICS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ประจวบ ยุงสันเทียะ"
+        ],
+        "credits": 3,
+        "section": 2,
+        "total_seats": 48,
+        "enrolled_seats": 48,
+        "class_schedule": [
+            {
+                "room": "78-423",
+                "day": "อังคาร",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313205",
+        "course_name": "INTRO TO COMPUTATION PHYSICS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ประจวบ ยุงสันเทียะ"
+        ],
+        "credits": 3,
+        "section": 3,
+        "total_seats": 48,
+        "enrolled_seats": 24,
+        "class_schedule": [
+            {
+                "room": "78-423",
+                "day": "อังคาร",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313235",
+        "course_name": "ADV COMP PROG LAB FOR PHY",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.บัญชา อธิเบญญากุล"
+        ],
+        "credits": 1,
+        "section": 1,
+        "total_seats": 45,
+        "enrolled_seats": 35,
+        "class_schedule": [
+            {
+                "room": "78-423",
+                "day": "ศุกร์",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313236",
+        "course_name": "PHY SEMICON DEVI & TECH",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ธิดารัตน์ หวังคำ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 45,
+        "enrolled_seats": 37,
+        "class_schedule": [
+            {
+                "room": "78-304",
+                "day": "จันทร์",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "15/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313237",
+        "course_name": "PHY SEMICON DEVI & TECH LAB",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ธิดารัตน์ หวังคำ",
+            "ผู้ช่วยศาสตราจารย์ ดร.จิราพร เหลืองวิริยะ"
+        ],
+        "credits": 1,
+        "section": 1,
+        "total_seats": 45,
+        "enrolled_seats": 38,
+        "class_schedule": [
+            {
+                "room": "78-431",
+                "day": "พฤหัส",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313244",
+        "course_name": "RADIATION PHY & INSTRUMENT",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.อภิชาติ ศิริวิทย์ปรีชา"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 45,
+        "enrolled_seats": 32,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "19/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "14/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040313249",
+        "course_name": "BIOPHYSICS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.จิราพร เหลืองวิริยะ",
+            "อาจารย์ ดร.นนท์ปวิธ ภูมิมณี"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 10,
+        "enrolled_seats": 10,
+        "class_schedule": [
+            {
+                "room": "78-405",
+                "day": "พุธ",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "21/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313250",
+        "course_name": "SELE TOP APP PHY & SCI INSTR",
+        "instuctors": [
+            "อาจารย์ ดร.นิธิพัฒน์ พลชัย"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 20,
+        "enrolled_seats": 14,
+        "class_schedule": [
+            {
+                "room": "78-405",
+                "day": "อังคาร",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "19/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "17/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313251",
+        "course_name": "MATHEMATICS FOR PHYSICISTS",
+        "instuctors": [
+            "อาจารย์กนิษฐา ฉันทนาชัย"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 110,
+        "enrolled_seats": 68,
+        "class_schedule": [
+            {
+                "room": "78-1201",
+                "day": "พุธ",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "19/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "20/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313304",
+        "course_name": "DIGITAL SIGNAL PROCESSING",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.สุกัญญา ฉัตรภูติ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 20,
+        "enrolled_seats": 20,
+        "class_schedule": [
+            {
+                "room": "78-413",
+                "day": "เสาร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "15/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040313305",
+        "course_name": "DIGITAL SIGNAL PROCESS LAB",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.สุกัญญา ฉัตรภูติ"
+        ],
+        "credits": 1,
+        "section": 1,
+        "total_seats": 15,
+        "enrolled_seats": 15,
+        "class_schedule": [
+            {
+                "room": "78-413",
+                "day": "เสาร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313313",
+        "course_name": "EMBEDDED CONTROL SYSTEM",
+        "instuctors": [
+            "อาจารย์ ดร.ฐิตพันธุ์ จองสถาพร"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 10,
+        "enrolled_seats": 10,
+        "class_schedule": [
+            {
+                "room": "75-1203",
+                "day": "พุธ",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "22/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313324",
+        "course_name": "PRIN CIRCUIT BORD ASSEM PROC",
+        "instuctors": [
+            "ดร.บุรินทร์ เสกธีระ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 40,
+        "enrolled_seats": 21,
+        "class_schedule": [
+            {
+                "room": "78-302",
+                "day": "เสาร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "15/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313327",
+        "course_name": "INTEGRATED CIRCUIT PACKAGING",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.เกษรารัตน์ อักษรรัตน์"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 40,
+        "enrolled_seats": 20,
+        "class_schedule": [
+            {
+                "room": "78-302",
+                "day": "พฤหัส",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "14/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040313333",
+        "course_name": "FUND OF MATL SCI & ENGR",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.อนุสรา ศรีสรวล"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 60,
+        "enrolled_seats": 45,
+        "class_schedule": [
+            {
+                "room": "78-315",
+                "day": "พฤหัส",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "17/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040313335",
+        "course_name": "STAT PACK SOFTWARE FOR IND",
+        "instuctors": [
+            "อาจารย์สุพจน์ สุ่มมาตย์"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 40,
+        "enrolled_seats": 23,
+        "class_schedule": [
+            {
+                "room": "78-423",
+                "day": "เสาร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "22/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313400",
+        "course_name": "ANATOMY & PHYSIOLOGY",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.วีระศักดิ์ อัศววงศ์อารยะ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 110,
+        "enrolled_seats": 103,
+        "class_schedule": [
+            {
+                "room": "78-1201",
+                "day": "พุธ",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "24/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313407",
+        "course_name": "MEDICAL RADIATION PHYSICS",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.ภัทรวีรินทร์ วรรัฐสุนทร"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 127,
+        "enrolled_seats": 122,
+        "class_schedule": [
+            {
+                "room": "78-223",
+                "day": "จันทร์",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "16/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "22/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313433",
+        "course_name": "BASIC MEDICAL SCIENCE",
+        "instuctors": [
+            "อาจารย์ศักดิพงศ์ พันธ์ไผ่"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 80,
+        "enrolled_seats": 80,
+        "class_schedule": [
+            {
+                "room": "78-223",
+                "day": "ศุกร์",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "14/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040313439",
+        "course_name": "SELECT TOPIC IN MEDI INSTMNT",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ธีระ ลีอุดมวงษ์"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 24,
+        "enrolled_seats": 24,
+        "class_schedule": [
+            {
+                "room": "78-405",
+                "day": "พฤหัส",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313444",
+        "course_name": "DIAG & THERA MEDICAL INSTRUM",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ธีระ ลีอุดมวงษ์"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 120,
+        "enrolled_seats": 106,
+        "class_schedule": [
+            {
+                "room": "78-216",
+                "day": "พุธ",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "24/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "21/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313447",
+        "course_name": "BIOMED SIGN MEAS & PROC LAB",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.ชิษณุทัศน์ บรรลือโชคชัย",
+            "ผู้ช่วยศาสตราจารย์ ดร.ประสงค์ ธูสรานนท์"
+        ],
+        "credits": 1,
+        "section": 1,
+        "total_seats": 40,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "78-420",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313447",
+        "course_name": "BIOMED SIGN MEAS & PROC LAB",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.ชิษณุทัศน์ บรรลือโชคชัย",
+            "อาจารย์พจนีย์ หริ่มฉ่ำ"
+        ],
+        "credits": 1,
+        "section": 2,
+        "total_seats": 40,
+        "enrolled_seats": 23,
+        "class_schedule": [
+            {
+                "room": "78-420",
+                "day": "ศุกร์",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040313456",
+        "course_name": "MATH FOR MEDICAL INSTRUMENT",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.สุเมธ อ่ำชิต"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 110,
+        "enrolled_seats": 92,
+        "class_schedule": [
+            {
+                "room": "78-1201",
+                "day": "จันทร์",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "18/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "17/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040313457",
+        "course_name": "INTRO TO BIOMEDICAL ENGR",
+        "instuctors": [
+            "รองศาสตราจารย์สุรพล ศรีบุญทรง"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 55,
+        "enrolled_seats": 55,
+        "class_schedule": [
+            {
+                "room": "78-318",
+                "day": "ศุกร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "14/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040313457",
+        "course_name": "INTRO TO BIOMEDICAL ENGR",
+        "instuctors": [
+            "รองศาสตราจารย์สุรพล ศรีบุญทรง"
+        ],
+        "credits": 3,
+        "section": 2,
+        "total_seats": 55,
+        "enrolled_seats": 43,
+        "class_schedule": [
+            {
+                "room": "75-303",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "14/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040313458",
+        "course_name": "BIOMEDICAL ELECTRONICS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ธีระ ลีอุดมวงษ์"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 124,
+        "enrolled_seats": 121,
+        "class_schedule": [
+            {
+                "room": "78-223",
+                "day": "พฤหัส",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "15/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313459",
+        "course_name": "INTRODUCTION TO MEDICAL IMAG",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.ภัทรวีรินทร์ วรรัฐสุนทร"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 124,
+        "enrolled_seats": 121,
+        "class_schedule": [
+            {
+                "room": "78-216",
+                "day": "พุธ",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "17/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313461",
+        "course_name": "BUSINESS ADMIN MECHANIS",
+        "instuctors": [
+            "รองศาสตราจารย์สมโภชน์ อิ่มเอิบ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 65,
+        "enrolled_seats": 44,
+        "class_schedule": [
+            {
+                "room": "78-318",
+                "day": "พุธ",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "19/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "24/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040313602",
+        "course_name": "CO-OPERATIVE EDUCATION II",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.สุกัญญา ฉัตรภูติ",
+            "รองศาสตราจารย์ ดร.ภัทรวีรินทร์ วรรัฐสุนทร"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 72,
+        "enrolled_seats": 44,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "จันทร์",
+                "from": "08:00",
+                "until": "12:00"
+            },
+            {
+                "room": "-",
+                "day": "จันทร์",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            {
+                "room": "-",
+                "day": "จันทร์",
+                "from": "16:00",
+                "until": "19:00"
+            },
+            {
+                "room": "-",
+                "day": "อาทิตย์",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040323101",
+        "course_name": "MECHANICS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.จิราพร เหลืองวิริยะ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 10,
+        "enrolled_seats": 8,
+        "class_schedule": [
+            {
+                "room": "78-1202",
+                "day": "พฤหัส",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "23/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "14/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040323201",
+        "course_name": "MATHEMATICS FOR PHYSICISTS",
+        "instuctors": [
+            "อาจารย์ ดร.นิธิพัฒน์ พลชัย"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 10,
+        "enrolled_seats": 5,
+        "class_schedule": [
+            {
+                "room": "78-1202",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "21/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040323204",
+        "course_name": "VIBRATION & WAVE",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ปณกมล ทองหล่อ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 10,
+        "enrolled_seats": 8,
+        "class_schedule": [
+            {
+                "room": "78-1202",
+                "day": "จันทร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "22/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040323401",
+        "course_name": "ELEC MAG & OPTC PROP OF MATL",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.น้ำผึ้ง ผังไพบูลย์"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 5,
+        "enrolled_seats": 5,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "พุธ",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "19/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "16/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040323402",
+        "course_name": "MECHA & THERM PROP OF MATL",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.วันทนา เกิดนิยม"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 5,
+        "enrolled_seats": 5,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "พฤหัส",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "20/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040323403",
+        "course_name": "MICRO CHANGES IN MATERIALS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ปณกมล ทองหล่อ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 5,
+        "enrolled_seats": 5,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "อังคาร",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "21/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040323409",
+        "course_name": "ELECTRONIC MATERIALS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.บัญชา อธิเบญญากุล"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 5,
+        "enrolled_seats": 5,
+        "class_schedule": [
+            {
+                "room": "78-405",
+                "day": "พฤหัส",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "21/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040323414",
+        "course_name": "MATERIALS SCIENCE & ENGR",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.น้ำผึ้ง ผังไพบูลย์",
+            "ผู้ช่วยศาสตราจารย์ ดร.วันทนา เกิดนิยม",
+            "ผู้ช่วยศาสตราจารย์ ดร.อนุสรา ศรีสรวล",
+            "ผู้ช่วยศาสตราจารย์ ดร.ปณกมล ทองหล่อ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 5,
+        "enrolled_seats": 5,
+        "class_schedule": [
+            {
+                "room": "78-405",
+                "day": "ศุกร์",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "23/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "24/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040323421",
+        "course_name": "MATERIALS SCIENCE & ENGR LAB I",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.อนุสรา ศรีสรวล",
+            "ผู้ช่วยศาสตราจารย์ ดร.ปณกมล ทองหล่อ"
+        ],
+        "credits": 1,
+        "section": 1,
+        "total_seats": 5,
+        "enrolled_seats": 5,
+        "class_schedule": [
+            {
+                "room": "78-433",
+                "day": "ศุกร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040333101",
+        "course_name": "ELECTRONICS I",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.สุรพันธ์ ยิ้มมั่น"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 50,
+        "enrolled_seats": 50,
+        "class_schedule": [
+            {
+                "room": "78-311",
+                "day": "อังคาร",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "24/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "16/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040333101",
+        "course_name": "ELECTRONICS I",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.สุรพันธ์ ยิ้มมั่น"
+        ],
+        "credits": 3,
+        "section": 2,
+        "total_seats": 50,
+        "enrolled_seats": 25,
+        "class_schedule": [
+            {
+                "room": "78-303",
+                "day": "พฤหัส",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "24/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "16/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040333102",
+        "course_name": "ELECTRONICS LAB I",
+        "instuctors": [
+            "อาจารย์ชาญชัย พรหมลิขิต",
+            "อาจารย์ ดร.นนท์ปวิธ ภูมิมณี"
+        ],
+        "credits": 1,
+        "section": 1,
+        "total_seats": 45,
+        "enrolled_seats": 45,
+        "class_schedule": [
+            {
+                "room": "78-417",
+                "day": "เสาร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040333102",
+        "course_name": "ELECTRONICS LAB I",
+        "instuctors": [
+            "อาจารย์ชาญชัย พรหมลิขิต",
+            "อาจารย์ ดร.นนท์ปวิธ ภูมิมณี"
+        ],
+        "credits": 1,
+        "section": 2,
+        "total_seats": 45,
+        "enrolled_seats": 29,
+        "class_schedule": [
+            {
+                "room": "78-417",
+                "day": "เสาร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040333105",
+        "course_name": "BIOMEDICAL ENGINEERING MATH",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.สุเมธ อ่ำชิต"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 90,
+        "enrolled_seats": 61,
+        "class_schedule": [
+            {
+                "room": "72-402",
+                "day": "พุธ",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "17/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040333106",
+        "course_name": "INTRO TO ANATOMY & PHY",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.วีระศักดิ์ อัศววงศ์อารยะ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 90,
+        "enrolled_seats": 81,
+        "class_schedule": [
+            {
+                "room": "78-319",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "18/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "24/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040333107",
+        "course_name": "ANATOMY & PHYSIOLOGY",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.วีระศักดิ์ อัศววงศ์อารยะ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 115,
+        "enrolled_seats": 84,
+        "class_schedule": [
+            {
+                "room": "78-319",
+                "day": "อังคาร",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "24/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040333108",
+        "course_name": "ANATOMY & PHYSIOLOGY LAB",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.วีระศักดิ์ อัศววงศ์อารยะ",
+            "อาจารย์ขนิษฐา สวัสดี",
+            "อาจารย์ชนิตา สายตะเข็บ"
+        ],
+        "credits": 1,
+        "section": 1,
+        "total_seats": 45,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "78-418",
+                "day": "พุธ",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "17/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040333108",
+        "course_name": "ANATOMY & PHYSIOLOGY LAB",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.วีระศักดิ์ อัศววงศ์อารยะ",
+            "อาจารย์ขนิษฐา สวัสดี",
+            "อาจารย์ชนิตา สายตะเข็บ"
+        ],
+        "credits": 1,
+        "section": 2,
+        "total_seats": 45,
+        "enrolled_seats": 42,
+        "class_schedule": [
+            {
+                "room": "78-418",
+                "day": "พุธ",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "17/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040333109",
+        "course_name": "INTRODUCTION TO BIO ENGR",
+        "instuctors": [
+            "รองศาสตราจารย์สุรพล ศรีบุญทรง"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 90,
+        "enrolled_seats": 83,
+        "class_schedule": [
+            {
+                "room": "78-319",
+                "day": "จันทร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "22/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040333111",
+        "course_name": "MICROCONTROLLER SYS DSGN",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์พยุง เดชอยู่"
+        ],
+        "credits": 3,
+        "section": 1,
         "total_seats": 85,
         "enrolled_seats": 67,
         "class_schedule": [
             {
-                "room": "89-505",
-                "day": "WED",
-                "from": "13:00",
-                "until": "16:00"
-            }
-        ],
-        "exam_date": {
-            "midterm": null,
-            "final": null
-        }
-    },
-    {
-        "course_id": "080303701",
-        "course_name": "DESIGN THINKING",
-        "instuctors": [
-            "Asst.Prof.Dr.BENJAWAN BOONYAPRAPHAN"
-        ],
-        "credits": 3,
-        "section": 3,
-        "total_seats": 95,
-        "enrolled_seats": 95,
-        "class_schedule": [
-            {
-                "room": "88-801-2",
-                "day": "MON",
-                "from": "13:00",
-                "until": "16:00"
-            }
-        ],
-        "exam_date": {
-            "midterm": null,
-            "final": null
-        }
-    },
-    {
-        "course_id": "080303701",
-        "course_name": "DESIGN THINKING",
-        "instuctors": [
-            "Asst.Prof.Dr.BENJAWAN BOONYAPRAPHAN"
-        ],
-        "credits": 3,
-        "section": 4,
-        "total_seats": 70,
-        "enrolled_seats": 68,
-        "class_schedule": [
-            {
-                "room": "31-21107",
-                "day": "WED",
-                "from": "13:00",
-                "until": "16:00"
-            }
-        ],
-        "exam_date": {
-            "midterm": null,
-            "final": null
-        }
-    },
-    {
-        "course_id": "080303701",
-        "course_name": "DESIGN THINKING",
-        "instuctors": [
-            "Ajarn Dr.RATI MANEENGAM"
-        ],
-        "credits": 3,
-        "section": 5,
-        "total_seats": 76,
-        "enrolled_seats": 62,
-        "class_schedule": [
-            {
-                "room": "52-616/617",
-                "day": "WED",
-                "from": "13:00",
-                "until": "16:00"
-            }
-        ],
-        "exam_date": {
-            "midterm": null,
-            "final": null
-        }
-    },
-    {
-        "course_id": "080303701",
-        "course_name": "DESIGN THINKING",
-        "instuctors": [
-            "Asst.Prof.Dr.BENJAWAN BOONYAPRAPHAN"
-        ],
-        "credits": 3,
-        "section": 6,
-        "total_seats": 80,
-        "enrolled_seats": 73,
-        "class_schedule": [
-            {
-                "room": "96-515",
-                "day": "WED",
+                "room": "78-313",
+                "day": "พฤหัส",
                 "from": "09:00",
                 "until": "12:00"
             }
         ],
         "exam_date": {
-            "midterm": null,
-            "final": null
+            "midterm": {
+                "date": "19/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "14/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
         }
     },
     {
-        "course_id": "080303701",
-        "course_name": "DESIGN THINKING",
+        "course_id": "040333112",
+        "course_name": "MICROCONTROLLER SYS DSGN LAB",
         "instuctors": [
-            "Asst.Prof.Dr.BENJAWAN BOONYAPRAPHAN"
+            "ผู้ช่วยศาสตราจารย์พยุง เดชอยู่"
         ],
-        "credits": 3,
-        "section": 10,
-        "total_seats": 106,
-        "enrolled_seats": 106,
+        "credits": 1,
+        "section": 1,
+        "total_seats": 41,
+        "enrolled_seats": 41,
         "class_schedule": [
             {
-                "room": "31-21107",
-                "day": "MON",
-                "from": "09:00",
-                "until": "12:00"
+                "room": "75-404",
+                "day": "พฤหัส",
+                "from": "13:00",
+                "until": "16:00"
             }
         ],
         "exam_date": {
@@ -161,21 +2911,22 @@
         }
     },
     {
-        "course_id": "080303701",
-        "course_name": "DESIGN THINKING",
+        "course_id": "040333112",
+        "course_name": "MICROCONTROLLER SYS DSGN LAB",
         "instuctors": [
-            "Assoc.Prof.Dr.PRAJAK PRATITAS"
+            "ผู้ช่วยศาสตราจารย์พยุง เดชอยู่",
+            "อาจารย์ชาญชัย พรหมลิขิต"
         ],
-        "credits": 3,
-        "section": 11,
-        "total_seats": 105,
-        "enrolled_seats": 71,
+        "credits": 1,
+        "section": 2,
+        "total_seats": 40,
+        "enrolled_seats": 21,
         "class_schedule": [
             {
-                "room": "72-405",
-                "day": "MON",
-                "from": "09:00",
-                "until": "12:00"
+                "room": "75-404",
+                "day": "พฤหัส",
+                "from": "16:00",
+                "until": "19:00"
             }
         ],
         "exam_date": {
@@ -184,42 +2935,181 @@
         }
     },
     {
-        "course_id": "080303701",
-        "course_name": "DESIGN THINKING",
+        "course_id": "040333115",
+        "course_name": "ENGINEERING DRAWING",
         "instuctors": [
-            "Ajarn Dr.NONTIRAT PATHANAPAKDEE"
+            "รองศาสตราจารย์ ดร.จุมพล บำรุงวงศ์"
         ],
-        "credits": 3,
-        "section": 12,
-        "total_seats": 31,
-        "enrolled_seats": 25,
+        "credits": 2,
+        "section": 1,
+        "total_seats": 45,
+        "enrolled_seats": 45,
         "class_schedule": [
             {
-                "room": "-",
-                "day": "WED",
+                "room": "78-423",
+                "day": "พฤหัส",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040333115",
+        "course_name": "ENGINEERING DRAWING",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.จุมพล บำรุงวงศ์"
+        ],
+        "credits": 2,
+        "section": 2,
+        "total_seats": 45,
+        "enrolled_seats": 36,
+        "class_schedule": [
+            {
+                "room": "78-423",
+                "day": "พฤหัส",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040333202",
+        "course_name": "BIO MEASUREMENT & INSTRU",
+        "instuctors": [
+            "อาจารย์จรูญ ปิดทะเหล็ก"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 85,
+        "enrolled_seats": 63,
+        "class_schedule": [
+            {
+                "room": "72-402",
+                "day": "ศุกร์",
                 "from": "17:00",
                 "until": "20:00"
             }
         ],
         "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "15/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040333205",
+        "course_name": "MEDICAL RADIATION PHYSICS",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.ภัทรวีรินทร์ วรรัฐสุนทร"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 85,
+        "enrolled_seats": 80,
+        "class_schedule": [
+            {
+                "room": "78-316",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "22/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040333208",
+        "course_name": "STAT FOR BIOMEDICAL ENGR",
+        "instuctors": [
+            "อาจารย์ ดร.นนท์ปวิธ ภูมิมณี"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 85,
+        "enrolled_seats": 63,
+        "class_schedule": [
+            {
+                "room": "78-316",
+                "day": "อังคาร",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "24/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "16/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040333209",
+        "course_name": "COMP APPL IN BIOMEDICAL ENGR",
+        "instuctors": [
+            "อาจารย์ ดร.สรมย์พร เจริญพิทย์"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 45,
+        "enrolled_seats": 42,
+        "class_schedule": [
+            {
+                "room": "78-423",
+                "day": "พุธ",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
             "midterm": null,
             "final": null
         }
     },
     {
-        "course_id": "080303701",
-        "course_name": "DESIGN THINKING",
+        "course_id": "040333209",
+        "course_name": "COMP APPL IN BIOMEDICAL ENGR",
         "instuctors": [
-            "Ajarn Dr.RATI MANEENGAM"
+            "อาจารย์ ดร.สรมย์พร เจริญพิทย์"
         ],
         "credits": 3,
-        "section": 13,
-        "total_seats": 135,
-        "enrolled_seats": 135,
+        "section": 2,
+        "total_seats": 45,
+        "enrolled_seats": 41,
         "class_schedule": [
             {
-                "room": "78-216",
-                "day": "FRI",
+                "room": "78-423",
+                "day": "พุธ",
                 "from": "13:00",
                 "until": "16:00"
             }
@@ -227,6 +3117,1168 @@
         "exam_date": {
             "midterm": null,
             "final": null
+        }
+    },
+    {
+        "course_id": "040333309",
+        "course_name": "BIOMECHANICS",
+        "instuctors": [
+            "อาจารย์ ดร.นนท์ปวิธ ภูมิมณี"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 90,
+        "enrolled_seats": 82,
+        "class_schedule": [
+            {
+                "room": "78-320",
+                "day": "ศุกร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "19/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "14/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040333401",
+        "course_name": "HEALTH INSTITUTE QLTY MNGT",
+        "instuctors": [
+            "อาจารย์นราธิป ศิริมาศ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 25,
+        "enrolled_seats": 25,
+        "class_schedule": [
+            {
+                "room": "75-1203",
+                "day": "ศุกร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "22/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040333408",
+        "course_name": "BIOMEDICAL ENGINEERING LAW",
+        "instuctors": [
+            "อาจารย์ ดร.รสจรินทร์ รัตนสุนทร"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 20,
+        "enrolled_seats": 20,
+        "class_schedule": [
+            {
+                "room": "78-303",
+                "day": "อังคาร",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "19/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "15/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040333501",
+        "course_name": "BIOPHYSICS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.จิราพร เหลืองวิริยะ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 25,
+        "enrolled_seats": 25,
+        "class_schedule": [
+            {
+                "room": "78-306",
+                "day": "เสาร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "19/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "14/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040333516",
+        "course_name": "SELEC TOPIC IN BIO ENGR TECH",
+        "instuctors": [],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 25,
+        "enrolled_seats": 25,
+        "class_schedule": [
+            {
+                "room": "75-1203",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "21/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "24/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040333605",
+        "course_name": "DIAG & THERAPEUTIC BY ENDO",
+        "instuctors": [],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 20,
+        "enrolled_seats": 20,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "อังคาร",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "21/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040333606",
+        "course_name": "EMERGENCY MEDICINE & CRITI",
+        "instuctors": [],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 20,
+        "enrolled_seats": 20,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "พุธ",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "22/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040333611",
+        "course_name": "SELEC TOPIC IN CLINI ENGR I",
+        "instuctors": [],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 20,
+        "enrolled_seats": 20,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "จันทร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "18/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "24/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040333803",
+        "course_name": "CO-OPERATIVE EDUCATION II",
+        "instuctors": [
+            "อาจารย์ ดร.รสจรินทร์ รัตนสุนทร"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 25,
+        "enrolled_seats": 21,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "จันทร์",
+                "from": "09:00",
+                "until": "17:00"
+            },
+            {
+                "room": "-",
+                "day": "อังคาร",
+                "from": "09:00",
+                "until": "17:00"
+            },
+            {
+                "room": "-",
+                "day": "พฤหัส",
+                "from": "09:00",
+                "until": "17:00"
+            },
+            {
+                "room": "-",
+                "day": "อาทิตย์",
+                "from": "09:00",
+                "until": "17:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040345412",
+        "course_name": "COM & MED INFORMATION TECH",
+        "instuctors": [
+            "รองศาสตราจารย์สุรพล ศรีบุญทรง"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 5,
+        "enrolled_seats": 0,
+        "class_schedule": [
+            {
+                "room": "78-405",
+                "day": "พฤหัส",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040355901",
+        "course_name": "THESIS",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.วันทนา เกิดนิยม"
+        ],
+        "credits": 12,
+        "section": 1,
+        "total_seats": 5,
+        "enrolled_seats": 0,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "จันทร์",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040363102",
+        "course_name": "ENGINEERING MECHANICS",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.จุมพล บำรุงวงศ์"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 47,
+        "enrolled_seats": 37,
+        "class_schedule": [
+            {
+                "room": "75-303",
+                "day": "พุธ",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "21/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040363106",
+        "course_name": "INTRODUCTION TO COMPUTER PROGRAM",
+        "instuctors": [
+            "อาจารย์ ดร.สรมย์พร เจริญพิทย์"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 48,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "78-423",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040363201",
+        "course_name": "ELECTRONICS CIRCUIT I",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.นนชณัต ฉัตรภูติ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 60,
+        "enrolled_seats": 39,
+        "class_schedule": [
+            {
+                "room": "78-317",
+                "day": "อังคาร",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "19/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "15/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040363202",
+        "course_name": "ELECTRONICS CIRCUIT LAB I",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.นนชณัต ฉัตรภูติ",
+            "อาจารย์ประชารัฐ สัตถาผล"
+        ],
+        "credits": 1,
+        "section": 1,
+        "total_seats": 48,
+        "enrolled_seats": 37,
+        "class_schedule": [
+            {
+                "room": "78-417",
+                "day": "อังคาร",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040363207",
+        "course_name": "COM.-AIDED DRAWING AND PROTOTYPE",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.จุมพล บำรุงวงศ์"
+        ],
+        "credits": 2,
+        "section": 1,
+        "total_seats": 48,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "78-423",
+                "day": "ศุกร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040363208",
+        "course_name": "ELEC & ELECTRN DRAWING",
+        "instuctors": [
+            "อาจารย์ ดร.ฐิตพันธุ์ จองสถาพร"
+        ],
+        "credits": 2,
+        "section": 1,
+        "total_seats": 48,
+        "enrolled_seats": 36,
+        "class_schedule": [
+            {
+                "room": "78-423",
+                "day": "พุธ",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040363211",
+        "course_name": "EMBEDDED SYSTEM",
+        "instuctors": [
+            "อาจารย์ ดร.ฐิตพันธุ์ จองสถาพร"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 30,
+        "enrolled_seats": 18,
+        "class_schedule": [
+            {
+                "room": "75-304",
+                "day": "พุธ",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "19/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "24/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040363212",
+        "course_name": "EMBEDDED SYSTEM LABORATORY",
+        "instuctors": [
+            "อาจารย์ปิยะวัฒน์ สุธา",
+            "อาจารย์ ดร.ฐิตพันธุ์ จองสถาพร"
+        ],
+        "credits": 1,
+        "section": 1,
+        "total_seats": 30,
+        "enrolled_seats": 17,
+        "class_schedule": [
+            {
+                "room": "78-413",
+                "day": "พฤหัส",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040363214",
+        "course_name": "INDUSTRIAL STANDARD",
+        "instuctors": [
+            "อาจารย์ตระกูล แซ่อื้อ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 30,
+        "enrolled_seats": 30,
+        "class_schedule": [
+            {
+                "room": "75-303",
+                "day": "ศุกร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "15/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040363217",
+        "course_name": "END OF LINE IN IC PACKAGING",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.เสฎฐวุฒิ ดวงจันทร์",
+            "ผู้ช่วยศาสตราจารย์ ดร.สุกัญญา ฉัตรภูติ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 30,
+        "enrolled_seats": 30,
+        "class_schedule": [
+            {
+                "room": "78-303",
+                "day": "ศุกร์",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": null
+        }
+    },
+    {
+        "course_id": "040363291",
+        "course_name": "ELECTRN MATL & DEVICE",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.อนุสรา ศรีสรวล"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 50,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "78-306",
+                "day": "พฤหัส",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "18/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "14/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040363292",
+        "course_name": "MICROELECTRONICS FABRICATION",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.เสฎฐวุฒิ ดวงจันทร์"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 50,
+        "enrolled_seats": 38,
+        "class_schedule": [
+            {
+                "room": "78-306",
+                "day": "จันทร์",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "17/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040363303",
+        "course_name": "HIGH-FREQUENCY ELEC DEVICE",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.นนชณัต ฉัตรภูติ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 15,
+        "enrolled_seats": 9,
+        "class_schedule": [
+            {
+                "room": "78-303",
+                "day": "พฤหัส",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "20/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "21/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040363304",
+        "course_name": "INTRO. TO MICRO AND NANO SYSTEMS",
+        "instuctors": [
+            "อาจารย์ ดร.ดอน คล้ายทับทิม"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 30,
+        "enrolled_seats": 29,
+        "class_schedule": [
+            {
+                "room": "78-313",
+                "day": "พุธ",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "18/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "16/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "040363306",
+        "course_name": "SELECTED TOPICS IN MICROELEC",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.อนุสรา ศรีสรวล",
+            "ผู้ช่วยศาสตราจารย์ ดร.ปณกมล ทองหล่อ"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 15,
+        "enrolled_seats": 3,
+        "class_schedule": [
+            {
+                "room": "78-311",
+                "day": "พุธ",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "18/08/68",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            "final": {
+                "date": "22/10/68",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        }
+    },
+    {
+        "course_id": "040363403",
+        "course_name": "SPECIAL PROJECT",
+        "instuctors": [],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 15,
+        "enrolled_seats": 8,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "จันทร์",
+                "from": "13:00",
+                "until": "16:00"
+            },
+            {
+                "room": "-",
+                "day": "เสาร์",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            {
+                "room": "-",
+                "day": "อาทิตย์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040363503",
+        "course_name": "CO-OPERATIVE EDUCATION II",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.อนุสรา ศรีสรวล"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 15,
+        "enrolled_seats": 7,
+        "class_schedule": [
+            {
+                "room": "-",
+                "day": "จันทร์",
+                "from": "08:00",
+                "until": "12:00"
+            },
+            {
+                "room": "-",
+                "day": "อังคาร",
+                "from": "08:00",
+                "until": "12:00"
+            },
+            {
+                "room": "-",
+                "day": "พฤหัส",
+                "from": "08:00",
+                "until": "12:00"
+            },
+            {
+                "room": "-",
+                "day": "เสาร์",
+                "from": "16:00",
+                "until": "19:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": null
+        }
+    },
+    {
+        "course_id": "040503001",
+        "course_name": "STATISTICS IN EVERYDAY LIFE",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.อุไรวรรณ เจริญกีรติกุล"
+        ],
+        "credits": 3,
+        "section": 2,
+        "total_seats": 75,
+        "enrolled_seats": 75,
+        "class_schedule": [
+            {
+                "room": "72-402",
+                "day": "พุธ",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "16/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040503001",
+        "course_name": "STATISTICS IN EVERYDAY LIFE",
+        "instuctors": [
+            "รองศาสตราจารย์ ดร.วิกานดา ผาพันธ์"
+        ],
+        "credits": 3,
+        "section": 4,
+        "total_seats": 75,
+        "enrolled_seats": 75,
+        "class_schedule": [
+            {
+                "room": "75-1205",
+                "day": "พุธ",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "22/08/68",
+                "from": "09:00",
+                "until": "12:00"
+            },
+            "final": {
+                "date": "16/10/68",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        }
+    },
+    {
+        "course_id": "040603005",
+        "course_name": "ARTIFICIAL INTEL IN MODERN LIFE",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์ ดร.ธรรศฏภณ สุระศักดิ์"
+        ],
+        "credits": 3,
+        "section": 1,
+        "total_seats": 90,
+        "enrolled_seats": 81,
+        "class_schedule": [
+            {
+                "room": "72-405",
+                "day": "อังคาร",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": {
+                "date": "19/08/68",
+                "from": "16:30",
+                "until": "19:30"
+            },
+            "final": {
+                "date": "15/10/68",
+                "from": "16:30",
+                "until": "19:30"
+            }
+        }
+    },
+    {
+        "course_id": "080103001",
+        "course_name": "ENGLISH I",
+        "instuctors": [
+            "MR. Folefac Tanya Nkenglefac"
+        ],
+        "credits": 3,
+        "section": 64,
+        "total_seats": 45,
+        "enrolled_seats": 45,
+        "class_schedule": [
+            {
+                "room": "78-304",
+                "day": "อังคาร",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "16/10/68",
+                "from": "09:00",
+                "until": "11:00"
+            }
+        }
+    },
+    {
+        "course_id": "080103001",
+        "course_name": "ENGLISH I",
+        "instuctors": [
+            "อาจารย์David Nelson Wanser"
+        ],
+        "credits": 3,
+        "section": 65,
+        "total_seats": 45,
+        "enrolled_seats": 36,
+        "class_schedule": [
+            {
+                "room": "78-306",
+                "day": "อังคาร",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "16/10/68",
+                "from": "09:00",
+                "until": "11:00"
+            }
+        }
+    },
+    {
+        "course_id": "080103001",
+        "course_name": "ENGLISH I",
+        "instuctors": [
+            "อาจารย์ปิยนุช อุดมเกียรติสกุล"
+        ],
+        "credits": 3,
+        "section": 66,
+        "total_seats": 60,
+        "enrolled_seats": 60,
+        "class_schedule": [
+            {
+                "room": "31-21003",
+                "day": "อังคาร",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "16/10/68",
+                "from": "09:00",
+                "until": "11:00"
+            }
+        }
+    },
+    {
+        "course_id": "080103001",
+        "course_name": "ENGLISH I",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์มนทิรา ประชาฤทธิ์ภักดี"
+        ],
+        "credits": 3,
+        "section": 67,
+        "total_seats": 60,
+        "enrolled_seats": 60,
+        "class_schedule": [
+            {
+                "room": "31-21005",
+                "day": "อังคาร",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "16/10/68",
+                "from": "09:00",
+                "until": "11:00"
+            }
+        }
+    },
+    {
+        "course_id": "080103001",
+        "course_name": "ENGLISH I",
+        "instuctors": [
+            "อาจารย์กฤษดา บูรณตระกูล"
+        ],
+        "credits": 3,
+        "section": 68,
+        "total_seats": 60,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "78-311",
+                "day": "อังคาร",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "16/10/68",
+                "from": "09:00",
+                "until": "11:00"
+            }
+        }
+    },
+    {
+        "course_id": "080103001",
+        "course_name": "ENGLISH I",
+        "instuctors": [
+            "อาจารย์ธานี เขียดทอง"
+        ],
+        "credits": 3,
+        "section": 69,
+        "total_seats": 45,
+        "enrolled_seats": 40,
+        "class_schedule": [
+            {
+                "room": "78-313",
+                "day": "อังคาร",
+                "from": "13:00",
+                "until": "16:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "16/10/68",
+                "from": "09:00",
+                "until": "11:00"
+            }
+        }
+    },
+    {
+        "course_id": "080103034",
+        "course_name": "ENGLISH CONVERSATION",
+        "instuctors": [
+            "MR. SIMON MCIVER"
+        ],
+        "credits": 3,
+        "section": 29,
+        "total_seats": 55,
+        "enrolled_seats": 55,
+        "class_schedule": [
+            {
+                "room": "78-308",
+                "day": "จันทร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "25/10/68",
+                "from": "09:00",
+                "until": "11:00"
+            }
+        }
+    },
+    {
+        "course_id": "080103034",
+        "course_name": "ENGLISH CONVERSATION",
+        "instuctors": [
+            "ผู้ช่วยศาสตราจารย์บุปผา เสโตบล"
+        ],
+        "credits": 3,
+        "section": 30,
+        "total_seats": 55,
+        "enrolled_seats": 55,
+        "class_schedule": [
+            {
+                "room": "31-11114",
+                "day": "จันทร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "25/10/68",
+                "from": "09:00",
+                "until": "11:00"
+            }
+        }
+    },
+    {
+        "course_id": "080103034",
+        "course_name": "ENGLISH CONVERSATION",
+        "instuctors": [
+            "อาจารย์ปิยนุช อุดมเกียรติสกุล"
+        ],
+        "credits": 3,
+        "section": 31,
+        "total_seats": 56,
+        "enrolled_seats": 56,
+        "class_schedule": [
+            {
+                "room": "78-311",
+                "day": "จันทร์",
+                "from": "09:00",
+                "until": "12:00"
+            }
+        ],
+        "exam_date": {
+            "midterm": null,
+            "final": {
+                "date": "25/10/68",
+                "from": "09:00",
+                "until": "11:00"
+            }
         }
     }
 ]

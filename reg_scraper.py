@@ -61,7 +61,7 @@ LANG = 'th'
 def main():
     # instantiate options for Chrome
     options = webdriver.ChromeOptions()
-    options.add_argument("--headless=new")
+    # options.add_argument("--headless=new")
 
     # instantiate Chrome WebDriver with options
     driver = webdriver.Chrome(options=options)
@@ -72,9 +72,9 @@ def main():
     # open the specified URL in the browser
     driver.get(url)
 
-    reg_change_lang(driver, lang=2)
+    # reg_change_lang(driver, lang=2)
 
-    result = reg_scrape(driver, course_id='080303701')
+    result = reg_scrape(driver, faculty_id='04', department_id='0403')
 
     with open("result.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=4)
@@ -149,8 +149,6 @@ def reg_change_lang(driver: WebDriver, lang=1):
 
     drowdrop = driver.find_element(By.XPATH, f'{LANG_DROPDOWN_XPATH}/a[{lang}]')
     drowdrop.click()
-
-    reg_wait_loading(driver)
     
 def reg_select_year(driver: WebDriver, year):
     year_field = driver.find_element(By.XPATH, YEAR_XPATH)
